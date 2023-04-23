@@ -14,7 +14,7 @@ Team member : 2
 https://trailblazer.me/id/r2020batch13
 
 Team member : 3
-https://trailblazer.me/id/r2020batch13
+https://trailblazer.me/id/r2020batch10
 
 Team member : 4
 http://trailblazer.me/id/t2020batch2
